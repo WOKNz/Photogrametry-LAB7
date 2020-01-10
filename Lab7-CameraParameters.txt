@@ -1,0 +1,11 @@
+Units: Pixels
+
+Cam1
+Focal Length: 4457.96
+Cx, Cy: 2626.033, 1780.555
+
+Cam2
+Focal Length: 4441.75
+Cx, Cy: 2656.086, 1785.356
+
+
